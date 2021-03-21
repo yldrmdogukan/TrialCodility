@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrialCodility", "TrialCodility.csproj", "{7DD95F95-6083-44E0-8608-1F0F7D4428BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD95F95-6083-44E0-8608-1F0F7D4428BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD95F95-6083-44E0-8608-1F0F7D4428BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD95F95-6083-44E0-8608-1F0F7D4428BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD95F95-6083-44E0-8608-1F0F7D4428BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C400F3-DE79-4435-8A5C-AC949FA2B9D5}
+	EndGlobalSection
+EndGlobal
